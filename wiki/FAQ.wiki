@@ -1,0 +1,5 @@
+#summary FAQ
+
+=== Why do I need a EC2 to run a free demo of the mCruiseOn library ? ===
+The mCruiseOn server is a proprietary product. We deploy this product on your ec2 instance. This way any costs that add up with the EC2 are yours alone. 
+
