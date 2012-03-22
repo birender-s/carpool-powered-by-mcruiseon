@@ -1,6 +1,6 @@
 #summary Getting Started with Android application
 
-= Build and Run, Hello World =
+=== Build and Run, Hello World ===
 
  # Register yourself at mCruiseOn for a free license. Include the free license.lic file in your classpath.
  # Download the client library [thedownloadlink mCruiseOnCarpoolLibrary.jar]
