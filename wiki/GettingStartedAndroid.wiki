@@ -2,9 +2,9 @@
 
 === Build and Run, Hello World ===
 
- # Register yourself at mCruiseOn for a free license. Include the free license.lic file in your classpath.
- # Download the client library [thedownloadlink mCruiseOnCarpoolLibrary.jar]
- # In Eclipse File->New->Android Project->Hello World, run it in a emulator.
- # Package Explorer->Project Properties (right click, Properties)->Java Build Path, add mCruiseOnCarpoolLibrary.jar
- # Download [thedownloadlink HelloWorldActivity.java]
- # Copy paste into your HelloWorldActivity.java, run it in the emulator again.
+ # Register yourself at mCruiseOn. Include the license.lic file to your classpath.
+ # Download the client library [thedownloadlink mCruiseOnCarpoolLibrary.jar], include it in your Build Path
+ # Create a New Android project Hello World, run it (to ensure it works)
+ # Download [thedownloadlink HelloWorldActivity.java], overwrite to your Hello World, java file HelloWorldActivity.java, run it in the emulator again.
+
+Now, you are ready to hit the javadocs for the library.
